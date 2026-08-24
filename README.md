@@ -47,3 +47,6 @@ This repository is my public learning journal for the next year. It documents wh
 **Start date:** August 25, 2026  
 **Goal:** Learn consistently, build useful things, and connect business thinking with technology.
 
+## License
+
+Code in this repository is available under the [MIT License](LICENSE).
